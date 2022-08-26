@@ -12,8 +12,8 @@ public class Session {
 	TestContext context;
 	LaunchPage launchPage;
 	LoginPage loginPage;
+	
 	public Session(TestContext context) {
-		System.out.println("Session init ");
 		this.context=context;
 		launchPage = context.getPageObjectManager().getLaunchPage();
 		loginPage = context.getPageObjectManager().getLoginPage();
