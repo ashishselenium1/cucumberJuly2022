@@ -8,6 +8,8 @@ Run project from GIT manually
 Run project from GIT periodically
 Run project with hook
 =============================================GIT===============================================
+https://github.com/ashishselenium1/cucumberJuly2022.git
+
 Download git and install
 Create account on git-https://github.com
 Open cmd prompt and type "Git"-
@@ -21,7 +23,7 @@ You will get popup with user id and password
 git add . -> Adds all folders to staging
 git add <FolderName> -> Adds specific folder to staging
 git commit -m "first commit" -> Commit to local git rep
-git remote add origin https://github.com/ashishselenium1/CucumberJan22.git -> Location of git on remote rep
+git remote add origin https://github.com/ashishselenium1/cucumberJuly2022.git -> Location of git on remote rep
 git remote remove origin
 
 
